@@ -1,0 +1,16 @@
+{
+    "name": "WishedAI.Raters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0075f840b403072409c98cf2e40aad1d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

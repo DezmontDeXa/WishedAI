@@ -1,0 +1,12 @@
+{
+  "name": "com.dezmontdexa.wished-ai",
+  "displayName": "WishedAI",
+  "description": "Wished-base AI System",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "license": "MIT",
+  "author": "DezmontDeXa (https://github.com/DezmontDeXa)",
+  "dependencies": {
+	  "com.scellecs.morpeh": "https://github.com/scellecs/morpeh.git"
+	  }
+}
